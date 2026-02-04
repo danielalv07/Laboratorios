@@ -1,0 +1,7 @@
+C:\Users\Estudiante\Documents\GitHub\Laboratorios\Laboratorio 3\Lab03-A02-Daniel Alvarado\bin\Debug\Lab03-A02-Daniel Alvarado.exe.config
+C:\Users\Estudiante\Documents\GitHub\Laboratorios\Laboratorio 3\Lab03-A02-Daniel Alvarado\bin\Debug\Lab03-A02-Daniel Alvarado.exe
+C:\Users\Estudiante\Documents\GitHub\Laboratorios\Laboratorio 3\Lab03-A02-Daniel Alvarado\bin\Debug\Lab03-A02-Daniel Alvarado.pdb
+C:\Users\Estudiante\Documents\GitHub\Laboratorios\Laboratorio 3\Lab03-A02-Daniel Alvarado\obj\Debug\Lab03-A02-Daniel Alvarado.csproj.AssemblyReference.cache
+C:\Users\Estudiante\Documents\GitHub\Laboratorios\Laboratorio 3\Lab03-A02-Daniel Alvarado\obj\Debug\Lab03-A02-Daniel Alvarado.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante\Documents\GitHub\Laboratorios\Laboratorio 3\Lab03-A02-Daniel Alvarado\obj\Debug\Lab03-A02-Daniel Alvarado.exe
+C:\Users\Estudiante\Documents\GitHub\Laboratorios\Laboratorio 3\Lab03-A02-Daniel Alvarado\obj\Debug\Lab03-A02-Daniel Alvarado.pdb
