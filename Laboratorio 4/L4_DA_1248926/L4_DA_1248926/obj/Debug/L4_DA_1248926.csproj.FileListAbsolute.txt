@@ -1,0 +1,7 @@
+D:\Universidad\LAB PENSAMIENTO COMP\GitHub\Laboratorios\Laboratorio 4\L4_DA_1248926\L4_DA_1248926\obj\Debug\L4_DA_1248926.csproj.AssemblyReference.cache
+D:\Universidad\LAB PENSAMIENTO COMP\GitHub\Laboratorios\Laboratorio 4\L4_DA_1248926\L4_DA_1248926\obj\Debug\L4_DA_1248926.csproj.CoreCompileInputs.cache
+D:\Universidad\LAB PENSAMIENTO COMP\GitHub\Laboratorios\Laboratorio 4\L4_DA_1248926\L4_DA_1248926\bin\Debug\L4_DA_1248926.exe.config
+D:\Universidad\LAB PENSAMIENTO COMP\GitHub\Laboratorios\Laboratorio 4\L4_DA_1248926\L4_DA_1248926\bin\Debug\L4_DA_1248926.exe
+D:\Universidad\LAB PENSAMIENTO COMP\GitHub\Laboratorios\Laboratorio 4\L4_DA_1248926\L4_DA_1248926\bin\Debug\L4_DA_1248926.pdb
+D:\Universidad\LAB PENSAMIENTO COMP\GitHub\Laboratorios\Laboratorio 4\L4_DA_1248926\L4_DA_1248926\obj\Debug\L4_DA_1248926.exe
+D:\Universidad\LAB PENSAMIENTO COMP\GitHub\Laboratorios\Laboratorio 4\L4_DA_1248926\L4_DA_1248926\obj\Debug\L4_DA_1248926.pdb
