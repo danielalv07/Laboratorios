@@ -1,0 +1,7 @@
+D:\Universidad\LAB PENSAMIENTO COMP\GitHub\Laboratorios\Laboratorio 3\Lab02-A2-Daniel Alvarado\Lab02-A2-Daniel Alvarado\obj\Debug\Lab02-A2-Daniel Alvarado.csproj.AssemblyReference.cache
+D:\Universidad\LAB PENSAMIENTO COMP\GitHub\Laboratorios\Laboratorio 3\Lab02-A2-Daniel Alvarado\Lab02-A2-Daniel Alvarado\obj\Debug\Lab02-A2-Daniel Alvarado.csproj.CoreCompileInputs.cache
+D:\Universidad\LAB PENSAMIENTO COMP\GitHub\Laboratorios\Laboratorio 3\Lab02-A2-Daniel Alvarado\Lab02-A2-Daniel Alvarado\bin\Debug\Lab02-A2-Daniel Alvarado.exe.config
+D:\Universidad\LAB PENSAMIENTO COMP\GitHub\Laboratorios\Laboratorio 3\Lab02-A2-Daniel Alvarado\Lab02-A2-Daniel Alvarado\bin\Debug\Lab02-A2-Daniel Alvarado.exe
+D:\Universidad\LAB PENSAMIENTO COMP\GitHub\Laboratorios\Laboratorio 3\Lab02-A2-Daniel Alvarado\Lab02-A2-Daniel Alvarado\bin\Debug\Lab02-A2-Daniel Alvarado.pdb
+D:\Universidad\LAB PENSAMIENTO COMP\GitHub\Laboratorios\Laboratorio 3\Lab02-A2-Daniel Alvarado\Lab02-A2-Daniel Alvarado\obj\Debug\Lab02-A2-Daniel Alvarado.exe
+D:\Universidad\LAB PENSAMIENTO COMP\GitHub\Laboratorios\Laboratorio 3\Lab02-A2-Daniel Alvarado\Lab02-A2-Daniel Alvarado\obj\Debug\Lab02-A2-Daniel Alvarado.pdb
