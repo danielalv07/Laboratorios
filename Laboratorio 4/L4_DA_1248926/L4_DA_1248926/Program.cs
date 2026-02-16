@@ -43,6 +43,35 @@ namespace L4_DA_1248926
             int distancia = int.Parse(entradaRadar);
             distancia = distancia + 100;
             Console.WriteLine("La distancia segura es: " + distancia);
+
+            //Ejercicio 5
+            string señalOxigeno = "true";
+            Convert.ToBoolean(señalOxigeno);
+
+            string temperaturaCabina = "22.8";
+            Convert.ToDouble(temperaturaCabina);
+
+            Console.WriteLine("La señal de oxígeno es: " + señalOxigeno);
+            Console.WriteLine("La temperatura de la cabina es: " + temperaturaCabina);
+
+            //Ejercicio 6
+            double velocidadLuz = 299792.458;
+
+            string stringVelocidad = velocidadLuz.ToString("N3");
+            Console.WriteLine("La velocidad de la luz es: " + stringVelocidad);
+
+            //Ejercicio 7
+            string precioGalón;
+            Console.WriteLine("Coloque el Precio por Galón de Litio");
+            precioGalón = Console.ReadLine();
+
+            double impuestoGaláctico = Convert.ToDouble(precioGalón) * 0.12;
+
+            double costoTotal = Convert.ToDouble(precioGalón) + impuestoGaláctico;
+            Console.WriteLine("El costo final del suministro es: " + (int)costoTotal);
+
+
+
             
 
 
