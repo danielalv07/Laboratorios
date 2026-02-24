@@ -6,3 +6,10 @@ C:\Users\Estudiante\Documents\GitHub\Laboratorios\Laboratorio 5\L5_DA1248926\bin
 C:\Users\Estudiante\Documents\GitHub\Laboratorios\Laboratorio 5\L5_DA1248926\obj\Debug\L5_DA1248926.exe
 C:\Users\Estudiante\Documents\GitHub\Laboratorios\Laboratorio 5\L5_DA1248926\obj\Debug\L5_DA1248926.pdb
 C:\Users\Estudiante\Documents\GitHub\Laboratorios\Laboratorio 5\L5_DA1248926\obj\Debug\L5_DA1248926.exe.config
+D:\Universidad\LAB PENSAMIENTO COMP\GitHub\Laboratorios\Laboratorio 5\L5_DA1248926\bin\Debug\L5_DA1248926.exe.config
+D:\Universidad\LAB PENSAMIENTO COMP\GitHub\Laboratorios\Laboratorio 5\L5_DA1248926\bin\Debug\L5_DA1248926.exe
+D:\Universidad\LAB PENSAMIENTO COMP\GitHub\Laboratorios\Laboratorio 5\L5_DA1248926\bin\Debug\L5_DA1248926.pdb
+D:\Universidad\LAB PENSAMIENTO COMP\GitHub\Laboratorios\Laboratorio 5\L5_DA1248926\obj\Debug\L5_DA1248926.csproj.AssemblyReference.cache
+D:\Universidad\LAB PENSAMIENTO COMP\GitHub\Laboratorios\Laboratorio 5\L5_DA1248926\obj\Debug\L5_DA1248926.csproj.CoreCompileInputs.cache
+D:\Universidad\LAB PENSAMIENTO COMP\GitHub\Laboratorios\Laboratorio 5\L5_DA1248926\obj\Debug\L5_DA1248926.exe
+D:\Universidad\LAB PENSAMIENTO COMP\GitHub\Laboratorios\Laboratorio 5\L5_DA1248926\obj\Debug\L5_DA1248926.pdb
