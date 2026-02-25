@@ -1,0 +1,8 @@
+C:\Users\Estudiante\Documents\Laboratorios\Laboratorio 6\L6_DA1248926\L6_DA1248926\obj\Debug\L6_DA1248926.csproj.AssemblyReference.cache
+C:\Users\Estudiante\Documents\Laboratorios\Laboratorio 6\L6_DA1248926\L6_DA1248926\obj\Debug\L6_DA1248926.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante\Documents\Laboratorios\Laboratorio 6\L6_DA1248926\L6_DA1248926\bin\Debug\L6_DA1248926.exe.config
+C:\Users\Estudiante\Documents\Laboratorios\Laboratorio 6\L6_DA1248926\L6_DA1248926\bin\Debug\L6_DA1248926.exe
+C:\Users\Estudiante\Documents\Laboratorios\Laboratorio 6\L6_DA1248926\L6_DA1248926\bin\Debug\L6_DA1248926.pdb
+C:\Users\Estudiante\Documents\Laboratorios\Laboratorio 6\L6_DA1248926\L6_DA1248926\obj\Debug\L6_DA1248926.exe
+C:\Users\Estudiante\Documents\Laboratorios\Laboratorio 6\L6_DA1248926\L6_DA1248926\obj\Debug\L6_DA1248926.pdb
+C:\Users\Estudiante\Documents\Laboratorios\Laboratorio 6\L6_DA1248926\L6_DA1248926\obj\Debug\L6_DA1248926.exe.config
