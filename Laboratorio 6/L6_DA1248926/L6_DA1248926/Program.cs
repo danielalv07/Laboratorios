@@ -32,26 +32,118 @@ namespace L6_DA1248926
                 case 5:
                     Console.WriteLine("Transporte Público");
                     break;
-                default: Console.WriteLine("Número no disponible en la lista");
+                default:
+                    Console.WriteLine("Número no disponible en la lista");
                     break;
             }
 
             //Ejercicio 2
-            int tipoTarjeta;
-            double limite;
-            Console.WriteLine("Coloque su tipo de tarjeta:");
-            tipoTarjeta = int.Parse(Console.ReadLine());
-            Console.WriteLine("Cuanto es su límite de crédito");
-            limite = double.Parse(Console.ReadLine());
-            switch (tipoTarjeta)
+            Console.WriteLine("¿Cuanto es su limite de credito?");
+            double limite = double.Parse(Console.ReadLine());
+            Console.WriteLine("Que tipo de tarjeta tiene?");
+            int tarjeta = int.Parse(Console.ReadLine());
+            double r;
+            switch (tarjeta)
             {
                 case 1:
-                    Console.WriteLine("Su nuevo limite es de " + Convert.ToInt32(limite * 1.25));
+                    r = limite * (1.25);
                     break;
                 case 2:
-                    Console.WriteLine();
+                    r = limite * (1.35);
+                    break;
+                case 3:
+                    r = limite * (1.40);
+                    break;
+                default:
+                    r = limite * (1.50);
                     break;
             }
+            Console.WriteLine("Su nuevo limite es de: " + r);
+
+            // Ejercicio 3:
+            Console.WriteLine("Nombre del empleado");
+            string nom = Console.ReadLine();
+            float puntuacion = -1;
+            while (puntuacion != 0.0f && puntuacion != 0.4f && puntuacion < 0.6f)
+            {
+                Console.WriteLine("Ingrese puntuación del empleado");
+                puntuacion = float.Parse(Console.ReadLine());
+            }
+            if (puntuacion <= 0.0f)
+            {
+                Console.WriteLine("Nivel inaceptable");
+            }
+            else if (puntuacion == 0.4f)
+            {
+                Console.WriteLine("Nivel Aceptable");
+            }
+            else
+            {
+                Console.WriteLine("Nivel meritorio");
+            }
+
+
+            float dinero = 2400 * puntuacion;
+            Console.WriteLine("Cantidad de dinero recibida: " + dinero);
+
+            //Ejercicio 4
+            Console.WriteLine("Bienvenido a pizzeria Bella Napoli, usted es vegetariano? 1. Si 2. No");
+            int vegetariano = int.Parse(Console.ReadLine());
+
+            string ingrediente;
+            if (vegetariano == 1)
+            {
+                Console.WriteLine("Ingredientes vegetariano: ");
+                Console.WriteLine("1. Pimiento");
+                Console.WriteLine("2. Tofu");
+
+                int opcionn = int.Parse(Console.ReadLine());
+
+                if (opcionn == 1)
+                {
+                    ingrediente = "Pimiento";
+                }
+                else if (opcionn == 2)
+                {
+                    ingrediente = "Tofu";
+                }
+                else
+                {
+                    Console.WriteLine("Opción inválida");
+                    return;
+                }
+                Console.WriteLine("Su pizza es vegetariana.");
+            }
+            else
+            {
+                Console.WriteLine("Ingredientes no vegetarianos: Peperoni, Jamon, Salmón");
+                Console.WriteLine("1. Peperoni");
+                Console.WriteLine("2. Jamon");
+                Console.WriteLine("3. Salmón");
+                int opcionn = int.Parse(Console.ReadLine());
+
+                if (opcionn == 1)
+                {
+                    ingrediente = "Peperoni";
+                }
+                else if (opcionn == 2)
+                {
+                    ingrediente = "Jamon";
+                }
+                else if (opcionn == 3)
+                {
+                    ingrediente = "Salmón";
+                }
+                else
+                {
+                    Console.WriteLine("Opción Invalida");
+                    return;
+                }
+
+                Console.WriteLine("Su pizza no es vegetariana");
+            }
+            Console.WriteLine("Sus ingredientes son: Tomate, Mozzarella, " + ingrediente);
         }
     }
+
 }
