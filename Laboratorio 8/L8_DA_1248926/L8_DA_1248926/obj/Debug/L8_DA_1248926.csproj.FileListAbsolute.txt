@@ -6,3 +6,10 @@ C:\Users\Estudiante\Documents\Laboratorios\Laboratorio 8\L8_DA_1248926\L8_DA_124
 C:\Users\Estudiante\Documents\Laboratorios\Laboratorio 8\L8_DA_1248926\L8_DA_1248926\obj\Debug\L8_DA_1248926.exe
 C:\Users\Estudiante\Documents\Laboratorios\Laboratorio 8\L8_DA_1248926\L8_DA_1248926\obj\Debug\L8_DA_1248926.pdb
 C:\Users\Estudiante\Documents\Laboratorios\Laboratorio 8\L8_DA_1248926\L8_DA_1248926\obj\Debug\L8_DA_1248926.exe.config
+D:\Universidad\LAB PENSAMIENTO COMP\GitHub\Laboratorios\Laboratorio 8\L8_DA_1248926\L8_DA_1248926\bin\Debug\L8_DA_1248926.exe.config
+D:\Universidad\LAB PENSAMIENTO COMP\GitHub\Laboratorios\Laboratorio 8\L8_DA_1248926\L8_DA_1248926\bin\Debug\L8_DA_1248926.exe
+D:\Universidad\LAB PENSAMIENTO COMP\GitHub\Laboratorios\Laboratorio 8\L8_DA_1248926\L8_DA_1248926\bin\Debug\L8_DA_1248926.pdb
+D:\Universidad\LAB PENSAMIENTO COMP\GitHub\Laboratorios\Laboratorio 8\L8_DA_1248926\L8_DA_1248926\obj\Debug\L8_DA_1248926.csproj.AssemblyReference.cache
+D:\Universidad\LAB PENSAMIENTO COMP\GitHub\Laboratorios\Laboratorio 8\L8_DA_1248926\L8_DA_1248926\obj\Debug\L8_DA_1248926.csproj.CoreCompileInputs.cache
+D:\Universidad\LAB PENSAMIENTO COMP\GitHub\Laboratorios\Laboratorio 8\L8_DA_1248926\L8_DA_1248926\obj\Debug\L8_DA_1248926.exe
+D:\Universidad\LAB PENSAMIENTO COMP\GitHub\Laboratorios\Laboratorio 8\L8_DA_1248926\L8_DA_1248926\obj\Debug\L8_DA_1248926.pdb

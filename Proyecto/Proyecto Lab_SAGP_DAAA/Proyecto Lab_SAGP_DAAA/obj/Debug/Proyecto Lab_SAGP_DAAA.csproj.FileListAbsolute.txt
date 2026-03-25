@@ -1,0 +1,7 @@
+D:\Universidad\LAB PENSAMIENTO COMP\GitHub\Laboratorios\Proyecto\Proyecto Lab_SAGP_DAAA\Proyecto Lab_SAGP_DAAA\bin\Debug\Proyecto Lab_SAGP_DAAA.exe.config
+D:\Universidad\LAB PENSAMIENTO COMP\GitHub\Laboratorios\Proyecto\Proyecto Lab_SAGP_DAAA\Proyecto Lab_SAGP_DAAA\bin\Debug\Proyecto Lab_SAGP_DAAA.exe
+D:\Universidad\LAB PENSAMIENTO COMP\GitHub\Laboratorios\Proyecto\Proyecto Lab_SAGP_DAAA\Proyecto Lab_SAGP_DAAA\bin\Debug\Proyecto Lab_SAGP_DAAA.pdb
+D:\Universidad\LAB PENSAMIENTO COMP\GitHub\Laboratorios\Proyecto\Proyecto Lab_SAGP_DAAA\Proyecto Lab_SAGP_DAAA\obj\Debug\Proyecto Lab_SAGP_DAAA.csproj.AssemblyReference.cache
+D:\Universidad\LAB PENSAMIENTO COMP\GitHub\Laboratorios\Proyecto\Proyecto Lab_SAGP_DAAA\Proyecto Lab_SAGP_DAAA\obj\Debug\Proyecto Lab_SAGP_DAAA.csproj.CoreCompileInputs.cache
+D:\Universidad\LAB PENSAMIENTO COMP\GitHub\Laboratorios\Proyecto\Proyecto Lab_SAGP_DAAA\Proyecto Lab_SAGP_DAAA\obj\Debug\Proyecto Lab_SAGP_DAAA.exe
+D:\Universidad\LAB PENSAMIENTO COMP\GitHub\Laboratorios\Proyecto\Proyecto Lab_SAGP_DAAA\Proyecto Lab_SAGP_DAAA\obj\Debug\Proyecto Lab_SAGP_DAAA.pdb

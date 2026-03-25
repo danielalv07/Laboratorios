@@ -59,7 +59,7 @@ namespace L8_DA_1248926
             }
             Console.WriteLine("La suma de todos los números es: " + suma2);
             Console.WriteLine("Hay " + contadorPar + " números pares");
-            Console.WriteLine("Hay" + contadorImpar + " números impares");
+            Console.WriteLine("Hay " + contadorImpar + " números impares");
 
             //Ejercicio 3
             
