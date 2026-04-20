@@ -1,0 +1,4 @@
+﻿[*.cs]
+
+# IDE0040: Agregar modificadores de accesibilidad
+dotnet_diagnostic.IDE0040.severity = suggestion
